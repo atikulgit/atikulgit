@@ -1,36 +1,22 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" width="100%"/>
-
 # Md Atikul Islam
-### Tech & Media Entrepreneur · CEO @ Shikkha IT Limited · Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Tech+Bangladesh+2.0;SaaS+%7C+EdTech+%7C+E-Commerce+%7C+Media;Founder+%7C+Engineer+%7C+Creator)](https://git.io/typing-svg)
+**Tech & Media Entrepreneur · CEO @ Shikkha IT Limited · Full-Stack Developer**
 
-</div>
+Building scalable SaaS products for Bangladesh 2.0
 
 ---
 
 ## About Me
 
-```yaml
-name:       Md Atikul Islam
-role:       CEO & Co-Founder — Shikkha IT Limited
-location:   Sirajganj, Rajshahi, Bangladesh
-mission:    Building scalable SaaS products for Bangladesh 2.0
-focus:
-  - Multi-tenant SaaS platforms
-  - EdTech & E-Commerce systems
-  - SSO & identity management
-  - Visual storytelling & brand media
-currently:  Leading 10+ startup ventures under Shikkha IT Limited
-` ` `
+- **Role:** CEO & Co-Founder — Shikkha IT Limited
+- **Location:** Sirajganj, Rajshahi, Bangladesh
+- **Mission:** Building scalable SaaS products for Bangladesh 2.0
+- **Focus:** Multi-tenant SaaS · EdTech · E-Commerce · SSO & Identity · Brand Media
+- **Currently:** Leading 10+ startup ventures under Shikkha IT Limited
 
 ---
 
 ## Tech Stack
-
-<div align="center">
 
 **Backend & Database**
 
@@ -59,26 +45,24 @@ currently:  Leading 10+ startup ventures under Shikkha IT Limited
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 
-</div>
-
 ---
 
 ## What I Build
 
 > All production systems are maintained privately. Below is a high-level overview of the platforms I architect and ship.
 
-` ` `
-shikkha.dev            — EdTech SaaS platform (multi-tenant, SSO-enabled)
-corporation portal     — Org management & identity hub for Shikkha ecosystem
-SSO Gateway            — Single Sign-On across opt · fms · bondhu · nexus · shuttros
-fms.shikkha.dev        — Financial management system
-bondhu.shikkha.dev     — Community & engagement platform
-liteeshop.com          — Full-featured e-commerce platform
-grow.liteeshop.com     — Growth & analytics layer for LiteEShop
-nexus.shikkha.dev      — Internal operations hub
-shuttros.shikkha.dev   — Service delivery platform
-Rose Letter Production — Commercial media & drone cinematography studio
-` ` `
+| Platform | Description |
+|----------|-------------|
+| shikkha.dev | EdTech SaaS platform (multi-tenant, SSO-enabled) |
+| corporation portal | Org management & identity hub for Shikkha ecosystem |
+| SSO Gateway | Single Sign-On across opt · fms · bondhu · nexus · shuttros |
+| fms.shikkha.dev | Financial management system |
+| bondhu.shikkha.dev | Community & engagement platform |
+| liteeshop.com | Full-featured e-commerce platform |
+| grow.liteeshop.com | Growth & analytics layer for LiteEShop |
+| nexus.shikkha.dev | Internal operations hub |
+| shuttros.shikkha.dev | Service delivery platform |
+| Rose Letter Production | Commercial media & drone cinematography studio |
 
 ---
 
@@ -97,37 +81,20 @@ Rose Letter Production — Commercial media & drone cinematography studio
 
 ## GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atikulgit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=atikulgit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikulgit&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikulgit&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atikulgit&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=atikulgit&theme=github-dark-blue&hide_border=true)
 
 ---
 
 ## Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Atikul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-atikul-islam-4b1a34258)
 [![Email](https://img.shields.io/badge/Email-atikul2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atikul2004@gmail.com)
 [![Website](https://img.shields.io/badge/Shikkha_IT-shikkha.dev-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shikkha.dev)
 
-</div>
-
 ---
 
-<div align="center">
-
 *"We are not just building products — we are building the foundation of Tech Bangladesh 2.0"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
-
-</div>
