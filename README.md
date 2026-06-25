@@ -1,5 +1,3 @@
-$ cat /Users/atikul/Devlopment/github-profile/README.md
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" width="100%"/>
@@ -7,7 +5,7 @@ $ cat /Users/atikul/Devlopment/github-profile/README.md
 # Md Atikul Islam
 ### Tech & Media Entrepreneur · CEO @ Shikkha IT Limited · Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Tech+Bangladesh+2.0+%F0%9F%87%A7%F0%9F%87%A9;SaaS+%7C+EdTech+%7C+E-Commerce+%7C+Media;Founder+%7C+Engineer+%7C+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Tech+Bangladesh+2.0;SaaS+%7C+EdTech+%7C+E-Commerce+%7C+Media;Founder+%7C+Engineer+%7C+Creator)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +16,7 @@ $ cat /Users/atikul/Devlopment/github-profile/README.md
 ```yaml
 name:       Md Atikul Islam
 role:       CEO & Co-Founder — Shikkha IT Limited
-location:   Sirajganj, Rajshahi, Bangladesh 🇧🇩
+location:   Sirajganj, Rajshahi, Bangladesh
 mission:    Building scalable SaaS products for Bangladesh 2.0
 focus:
   - Multi-tenant SaaS platforms
@@ -26,7 +24,7 @@ focus:
   - SSO & identity management
   - Visual storytelling & brand media
 currently:  Leading 10+ startup ventures under Shikkha IT Limited
-```
+` ` `
 
 ---
 
@@ -69,18 +67,18 @@ currently:  Leading 10+ startup ventures under Shikkha IT Limited
 
 > All production systems are maintained privately. Below is a high-level overview of the platforms I architect and ship.
 
-```
-🎓  shikkha.dev            — EdTech SaaS platform (multi-tenant, SSO-enabled)
-🏢  corporation portal      — Org management & identity hub for Shikkha ecosystem
-🔐  SSO Gateway             — Single Sign-On across opt · fms · bondhu · nexus · shuttros
-📦  fms.shikkha.dev         — Financial management system
-🤝  bondhu.shikkha.dev      — Community & engagement platform
-🛒  liteeshop.com           — Full-featured e-commerce platform
-📈  grow.liteeshop.com      — Growth & analytics layer for LiteEShop
-🎯  nexus.shikkha.dev       — Internal operations hub
-🚀  shuttros.shikkha.dev    — Service delivery platform
-🎬  Rose Letter Production  — Commercial media & drone cinematography studio
-```
+` ` `
+shikkha.dev            — EdTech SaaS platform (multi-tenant, SSO-enabled)
+corporation portal     — Org management & identity hub for Shikkha ecosystem
+SSO Gateway            — Single Sign-On across opt · fms · bondhu · nexus · shuttros
+fms.shikkha.dev        — Financial management system
+bondhu.shikkha.dev     — Community & engagement platform
+liteeshop.com          — Full-featured e-commerce platform
+grow.liteeshop.com     — Growth & analytics layer for LiteEShop
+nexus.shikkha.dev      — Internal operations hub
+shuttros.shikkha.dev   — Service delivery platform
+Rose Letter Production — Commercial media & drone cinematography studio
+` ` `
 
 ---
 
@@ -88,12 +86,12 @@ currently:  Leading 10+ startup ventures under Shikkha IT Limited
 
 | Year | Achievement |
 |------|-------------|
-| 2026 | 🏆 Runner-Up — Global Robotics & Innovation Championship (GRIC 2026), International Finals · Turkey |
-| 2026 | 🚀 Launched Shikkha IT Limited as MD & CEO — vision: 10 global-ready tech startups |
-| 2025 | 📢 Runner-Up — Startup Strategy · Global Startup League |
-| 2024 | 🎓 Web Design Internship — Creative IT Institute, Dhaka |
-| 2023 | 🏅 Best Seller Award — Genuine Social Enterprise |
-| 2019 | 🎬 Founded Rose Letter Production — collaborated with Foodpanda, bKash, TLL, Camindia |
+| 2026 | Runner-Up — Global Robotics & Innovation Championship (GRIC 2026), International Finals · Turkey |
+| 2026 | Launched Shikkha IT Limited as MD & CEO — vision: 10 global-ready tech startups |
+| 2025 | Runner-Up — Startup Strategy · Global Startup League |
+| 2024 | Web Design Internship — Creative IT Institute, Dhaka |
+| 2023 | Best Seller Award — Genuine Social Enterprise |
+| 2019 | Founded Rose Letter Production — collaborated with Foodpanda, bKash, TLL, Camindia |
 
 ---
 
